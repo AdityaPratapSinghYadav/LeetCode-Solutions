@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
