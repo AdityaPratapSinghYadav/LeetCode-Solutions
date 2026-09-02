@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
