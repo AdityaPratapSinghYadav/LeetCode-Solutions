@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Tree
 |  |
@@ -114,12 +115,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## String
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
