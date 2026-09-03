@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -153,4 +154,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 <!---LeetCode Topics End-->
