@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0496-next-greater-element-i](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
