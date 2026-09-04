@@ -155,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
