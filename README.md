@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -171,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
