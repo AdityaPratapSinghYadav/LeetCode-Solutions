@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
