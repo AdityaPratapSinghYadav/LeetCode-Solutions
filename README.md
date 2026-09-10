@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
