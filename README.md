@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Union-Find
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0383-ransom-note](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 ## Math
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/AdityaPratapSinghYadav/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Quicksort
 |  |
 | ------- |
